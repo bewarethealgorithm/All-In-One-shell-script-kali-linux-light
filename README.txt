@@ -1,6 +1,6 @@
 COMMANDS
 
-Copy the two files to root or home
+Copy the files to root or home
 
 git clone https://github.com/bewarethealgorithm/All-In-One.git
  
