@@ -1,6 +1,6 @@
-Use with mainly with light versions of kali linux after fresh install
+Use mainly with light versions of kali linux after fresh installs
 
-JUST CHECK OUT THE FILES IN A TEXT EDITOR
+YOU CAN EDIT THE FILES IN A TEXT EDITOR
 
 COMMANDS
 
