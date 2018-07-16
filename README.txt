@@ -1,7 +1,3 @@
-Use mainly with light versions of kali linux after fresh installs
-
-YOU CAN EDIT THE FILES IN A TEXT EDITOR
-
 COMMANDS
 
 Copy the two files to root or home
@@ -15,7 +11,5 @@ After reboot run part two
 
 chmod +x All-In-One-Part-Two-After-Reboot
 ./All-In-One-Part-Two-After-Reboot
-
-I did this to save time it has helped me lots... cheers
 
 YOU CAN CHANGE AND EDIT AND MAKE BETTER
